@@ -5,7 +5,7 @@
 - Download and install Unity on your pc
 - Download and install Unity Remote 5 on your Android phone
 - Clone the repository by clicking the clone repository button above
-- Make sure your phone enables Developer Mode
+- Make sure your phone enables Developer Mode and enable USB Debugging
 
 # Folder and File Structure
 - Assets - contains Animations, Audios, Fonts, Prefabs, Scenes, Sprites, and Textures for the game
